@@ -1,5 +1,10 @@
 # The Word Guessing Game
 A word guessing game in python. I am currently working on it so please support.
-https://cdn.discordapp.com/emojis/858407562276765726.png?v=1
 
-https://www.google.com/search?tbs=simg:CAQS7gEJ7mkkOeEwkz4a4gELELCMpwgaOQo3CAQSEow7BcsMQMUfmBjOHpk75Cf7EBobTlDf3NlU4oLd-H0rczOH2_1-sXFFdqckp_1UubIAUwBAwLEI6u_1ggaCgoICAESBG46_1xQMCxCd7cEJGoMBCiAKDnJlZC1leWUgZWZmZWN02qWI9gMKCggvbS8wNmxxdAoXCgRzb2Z02qWI9gMLCgkvYS8ydmttbXgKGAoFc2NhcnnapYj2AwsKCS9hL2YyYnhjegosChlkb21lc3RpYyBzaG9ydC1oYWlyZWQgY2F02qWI9gMLCgkvbS8wMTJjOWwM&q=Cat&tbm=isch&sa=X&ved=2ahUKEwjirvns5-fyAhVzIbcAHR7EAZAQwg4oAHoECAEQMQ&biw=1366&bih=625
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/88420536/132126467-183d750c-9029-4cd6-9dbb-db044e7485bc.png)
