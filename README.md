@@ -1,2 +1,3 @@
-# better_word_guessing
-a word guessing game in python
+# The Word Guessing Game
+A word guessing game in python. I am currently working on it so please support.
+
