@@ -1,4 +1,4 @@
-#importing aaltu faltu samaan
+#importing required packages
 import random
 from nltk.corpus import wordnet as wn
 
@@ -10,13 +10,13 @@ all_nouns = []
 for synset in wn.all_synsets('n'):
     all_nouns.extend(synset.lemma_names())
 
-#ek random sa word
+#random word selecor
 chosen_word= random.choices(all_nouns)
 
-#word ko extract
+#extracting the word
 final_word= chosen_word.pop(0)
 
-#word ko converting in list
+#converting the word in a list
 list1= []
 for i in final_word:
     list1.append(i)
@@ -47,3 +47,5 @@ while True:
             print("Word length not matched. Try again")
                 
     print(', '.join(map(str, list2)))
+
+#Thankyou!
